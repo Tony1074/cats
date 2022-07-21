@@ -1,0 +1,26 @@
+#h1 {
+    text-align: center;
+}
+
+#p {
+    font-size: 20px;
+    text-align: center;
+}
+
+#button {
+    text-align: center;
+    display: block;
+    text-transform:uppercase ;
+    color: rgb(6, 5, 5);
+    background-color: rgb(255, 252, 252);
+    border-radius: 10px;
+    margin: 20px auto;
+    text-decoration: none;
+    width: 120px;
+    height: 50px;
+}
+
+#p2 {
+    font-size: 20px;
+    text-align: center;
+}
